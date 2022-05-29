@@ -64,6 +64,18 @@ All assignments will be ranked according to the following evaluation schedule:
 
 Each assignment carries assignment-specific grade penalties, though each is eligible for a ✅ mark, indicating that work exceeds reader expectations. Each ✅   will increase a student's letter grade by a full letter. Likewise, each ⛔ reduces a student's final grade by 1 full letter.
 
+##### Meetings
+
+Students are responsible for attending all scheduled meetings.
+
+
+|Outcome |Indication                                 |
+|:-------|:------------------------------------------|
+|⛔      |For every two (2) missed meetings, student's letter grade decreases by a full mark|
+|🆗      |Student attended meetings, though often without new progress to report |
+|✅      |Student attended meetings, bringing new work and holding insightful discussion |
+
+
 ##### Process journals
 
 Students are required to submit weekly entries to the process journal repository. These should take a form dictated by the process journal GitHub Classroom assignment. 
@@ -107,7 +119,7 @@ The following should be taken as a list of strong general recommendations for yo
 |🆗      |All work is present and meets minimum requirements  |
 |✅      |Work submitted exceeds standard quality expected |
 
-#### Proposal defense
+##### Proposal defense
 
 Proposal defenses take the form of a live oral presentation of between 10 and 15 minutes. Time is dedicated as follows:
 
