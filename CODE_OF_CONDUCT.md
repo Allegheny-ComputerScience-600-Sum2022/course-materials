@@ -1,6 +1,6 @@
-# Guidelines: Senior Thesis, Allegheny College, 2021 (CMPSC 600/610)
+# Contract: Senior Thesis, Allegheny College, Summer 2022 (CMPSC 600)
 
-This document outlines relevant guidelines of the Senior Thesis ("Comp") Proposal, describing topic selection, departmental deadlines, and best practices pertaining to work conducted during the semester students take `CMPSC 600` and `CMPSC 610`. Additionally, this document outlines those factors of the Comp proposal and development process which are not directly governed by the `CMPSC 600` and `CMPSC 610` syllabi, but are inherent in the process of what the Department of Computer Science implies when referencing "research" and/or "inquiry."
+This document outlines relevant guidelines of the Senior Thesis ("Comp") Proposal, describing topic selection, departmental deadlines, and best practices pertaining to work conducted during the `CmPSC 600`. Additionally, this document outlines student evaluation.
 
 ## Topic selection
 
@@ -16,7 +16,7 @@ In the past, students have successfully chosen to complete Comp projects dramati
 
 ## Due dates
 
-All due dates are provided in the [course schedule](https://chompe.rs/cmpsc-600-2021-schedule). For convienience, major due dates (including the Proposal, defenses, and draft chapter due dates) are reproduced here:
+All due dates are provided in the [course schedule](https://chompe.rs/cmpsc-600-summer-2022-schedule). For convienience, major due dates (including the Proposal, defenses, and draft chapter due dates) are reproduced here:
 
 ### CMPSC 600
 
@@ -24,8 +24,7 @@ All due dates are provided in the [course schedule](https://chompe.rs/cmpsc-600-
 |:----------------|:-----------|
 |Proposal document|29 June     |
 |Proposal defense |6 July      |
-|Draft chapters   |9 August   |
-
+|Draft chapters   |9 August    |
 
 The course syllabus, assignment sheets, and schedule take precedence in defining formats and, in some cases, due date changes. While this document provides the dates, these reflect general planning for the semester. In the event of due date changes, they may be the last source updated. Refer to specific guidance from course documents and faculty in the event of changes discussed.
 
@@ -37,20 +36,6 @@ Throughout the Comp Proposal process, it is incumbent upon students to schedule 
 
 The highly independent and autonomous nature of work associated with the Comp Proposal process assumes a signficant amount of discretionary labor on students' behalf.
 
-### Defining primary departments (double majors)
-
-#### Disciplinary jurisdiction
-
-For students working under the auspices of a double major, the major indicated _first_ on documentation is that which governs the Comp process -- including the Proposal. While you may work closely with faculty in the Department of Computer Science, be aware that individual disciplines (if listed _before_ computer science) will take precedence in terms of high-level concerns (such as defenses or burdens of proof/evidence) and lower-level concerns such as citation format. 
-
-If completing a Comp Proposal which involves two (2) discplines, _it is up to students_ to submit documentation to _all_ appropriate readers.
-
-#### Additional expectations of interdisciplinary projects
-
-Interdisciplinary projects should, at a minimum, make clear how disciplines outside of computer science exert influence on the product created in addition to demonstrating how computer science also affects conclusions and outcomes reached by other subjects. To determine this, readers and other faculty will be in conversation with other departments to assess all major products and deliverables, namely the Comp Proposal and draft chapters.
-
-Faculty of the Department of Computer Science also expect that students engaging in interdisciplinary work will coordinate with all readers to attend defenses and provide feedback on written product. Failure to do so may, in some cases, affect the faculty's ability to appropriate evaluate work.
-
 ## Faculty responsibilities
 
 The faculty of the Department of Computer Science will make an honest, good faith effort to advise students on projects. However, we highlight two peculiar characteristics of feedback given during the Comp process:
@@ -61,9 +46,37 @@ The faculty of the Department of Computer Science will make an honest, good fait
 
 All parties involved in the Comp process acknowledge the relationship between faculty and students involved to be one of peer research. Both parties should assume this to be true in all exchanges and in evaluation of critical feedback.
 
-## Proposal document
+## Evaluation
 
-The following should be taken as a list of strong general recommendations for your proposal documents. These categories double as areas the faculty use to both assess work for completeness and evaluation.
+A student's default grade in this course is a `C`. 
+
+However, given high-quality deliverables and a commitment to maintaining an equally-demanding process, a student's final grade may increase in proportion to the merits of the work provided. This rule also contemplates that a student's grade may suffer in the same proportion. Merely meeting basic criteria listed below usually presages "average" work. 
+
+### Criteria
+
+All assignments will be ranked according to the following evaluation schedule:
+
+|Outcome |Indication                                 |
+|:-------|:------------------------------------------|
+|⛔      |Requirement missing or not adequately addressed |
+|🆗      |Requirement adequately addressed |
+|✅      |Requirement exceeds expecations |
+
+Each assignment carries assignment-specific grade penalties, though each is eligible for a ✅ mark, indicating that work exceeds reader expectations. Each ✅   will increase a student's letter grade by a full letter. Likewise, each ⛔ reduces a student's final grade by 1 full letter.
+
+##### Process journals
+
+Students are required to submit weekly entries to the process journal repository. These should take a form dictated by the process journal GitHub Classroom assignment. 
+
+|Outcome |Description                                |
+|:-------|:------------------------------------------|
+|⛔      |For every two (2) entries missing, student's letter grade decreases by a full mark|
+|🆗      |All work is present and meets minimum requirements  |
+|✅      |Work submitted exceeds standard quality expected |
+
+##### Proposal document
+
+The following should be taken as a list of strong general recommendations for your proposal documents. These categories double as areas the faculty use to both assess work for completeness.
 
 - [ ] Proposal was submitted on time
 - [ ] The title of the proposal is appropriate
@@ -80,7 +93,6 @@ The following should be taken as a list of strong general recommendations for yo
 - [ ] The conclusion outlines avenues for future work
 - [ ] The proposal includes at least twelve references
 - [ ] The proposal consists of at least `3000` words
-- [ ] The proposal follows a logical flow
 - [ ] The proposal includes visual aids, where appropriate, which fall under the broad categories of:
  * `image`
  * `figure`
@@ -88,28 +100,39 @@ The following should be taken as a list of strong general recommendations for yo
  * `graph`
 - [ ] There are no typographical or grammatical errors and no extraneous text in the proposal
 - [ ] The proposal was released correctly on GitHub
-- [ ] The proposal uses the correct LaTeX format
 
-## Proposal defenses
+|Outcome |Indication                                 |
+|:-------|:------------------------------------------|
+|⛔      |30% or more of requirements are missing from document |
+|🆗      |All work is present and meets minimum requirements  |
+|✅      |Work submitted exceeds standard quality expected |
 
-Proposal defenses take the form of an in-person oral presentation of between 10 and 15 minutes. Time is dedicated as follows:
+#### Proposal defense
+
+Proposal defenses take the form of a live oral presentation of between 10 and 15 minutes. Time is dedicated as follows:
 
 * 10 minutes: student presentation
 * 5 minutes: questions posed by First and Second readers in succession
 * brief deliberation of Proposal document and presentation, during which the presenting student leaves the room
 
-After deliberation, the First Reader indicates if the presenter has passed the Proposal stage. Students _will not_ be given a grade on their document or presentation at this time.
+After deliberation, the First Reader indicates if the presenter has passed the Proposal stage.
+
+|Outcome |Indication                                 |
+|:-------|:------------------------------------------|
+|⛔      |Student must remount full defense |
+|🆗      |"Conditional" passage; student must follow up in method prescribed by readers|
+|✅      |Defense exceeds expectations and demonstrates superior work |
 
 #### Passing the proposal defense
 
 If a student passes the Proposal defense, they are permitted to continue work on developing two (2) draft chapters of their thesis document.
-
-#### Not passing the proposal defense
-
-Should readers determine that a student _does not_ pass the Proposal defense, changes will be requested via issues filed on the GitHub repository containing the Proposal document. In addition, the student will be asked to attend a follow-up defense. During this follow-up defense, students are expected to address the gaps identified by the previous defense.
 
 #### "Conditional" passage
 
 In some cases, the changes required by faculty review of student work require significant revision and labor, but not so much so that student work is considered as "not passing." In these cases, a student's readers may come up with certain contingencies that must be fulfilled before judging a project to have passed the defense.
 
 Should a student require these follow-up interventions, their First Reader will open an issue on the student's proposal repository containing the requested revisions. Once a student makes these revisions, and they have been accepted by a student's readers, the student will be notified that they have passed their defense.
+
+#### Not passing the proposal defense
+
+Should readers determine that a student _does not_ pass the Proposal defense, changes will be requested via issues filed on the GitHub repository containing the Proposal document. In addition, the student will be asked to attend a follow-up defense. During this follow-up defense, students are expected to address the gaps identified by the previous defense.

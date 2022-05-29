@@ -80,17 +80,7 @@ By the end of this series of courses, you will develop skills to:
 
 ### Grading policies
 
-Faculty in the Department of Computer Science evaluate individual student performance as a faculty body, discussing submitted student deliverables. These deliverables are scored using the following percentages:
-
-|Grading scale|            |             |            |             |            |
-|:------------|:-----------|:------------|:-----------|:------------|:-----------|
-|A            | 96 - 100   |A-           | 90 - 95.9  |
-|B+           | 87 - 89.9  |B            | 83 - 86.9  |B-           | 80 - 82.9  |
-|C+           | 77 - 79.9  |C            | 73 - 76.9  |C-           | 70 - 72.9  |
-|D+           | 67 - 69.9  |D            | 63 - 66.9  |D-           | 60 - 62.9  |
-|F            | 59.9 and below |
-
-The assignments of this course are comprised of various individual and peer deliverables, detailed below. For the purposes of evaluation, these assignments are assigned the following point values:
+This course is graded according to the covenants of the [course contract](CODE_OF_CONDUCT.md). Please refer to this document to review course evaluation specifics. However, this section summarizes basic responsibilities and deliverables. For the purposes of evaluation, this course is separated into both "primary" and "secondary" assignments.
 
 |Assignment                      |Primary/secondary requirement           |
 |:-------------------------------|:---------------------------------------|
@@ -99,25 +89,22 @@ The assignments of this course are comprised of various individual and peer deli
 |Thesis proposal defense         |Primary                                 |
 |Thesis chapters (drafts)        |Primary                                 |
 
-This course is graded 
 
-#### Note about assignments
-
-To pass `CMPSC 600`, submissions of and participation in the following assignments are _required_:
+To pass `CMPSC 600`, submissions of and participation in all primary requirements is mandatory. As demonstrated by the table above, these are:
 
 * Thesis proposal
 * Thesis proposal defense
 * Thesis chapters
 
-Failure to successfully complete any of the above requirements will constitute a failing grade in the course.
+**Failure to successfully complete any of the above requirements will constitute a failing grade in the course.**
 
 #### Class participation
 
-As written, all students are required to attend all scheduled meetings, providing meaningful work toward course requirements. For additional meetings with First or Second Reader(s), [make an appointment via reader office hours](#Readers).
+As written,  you are required to attend scheduled meetings, providing meaningful work toward course requirements. For additional meetings with First or Second Reader(s), [make an appointment via reader office hours](#Readers).
 
 #### Course repositories
 
-You are responsible for accepting and maintaining GitHub repositories for each of the assigned course projects. These assignments will be issued in the course [Slack channel](https://cs-senior-thesis-2021.slack.com). Repositories include completion- and submission-specific instructions via `README` files. Many of these operations feature using GitHub's tagging mechanism to release PDFs of your proposal with versions that adhere to the course's semantic versioning standard. 
+You are responsible for accepting and maintaining GitHub repositories for each of the assigned course projects. Repositories include completion- and submission-specific instructions via `README` files. Many of these operations feature using GitHub's tagging mechanism to release PDFs of your proposal with versions that adhere to the course's semantic versioning standard. 
 
 **Course instructors will only grade and provide feedback on projects that are stored and properly released through GitHub.**
 
