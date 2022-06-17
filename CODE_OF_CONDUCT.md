@@ -22,8 +22,8 @@ All due dates are provided in the [course schedule](https://chompe.rs/cmpsc-600-
 
 |Deliverable      |Due date(s) |
 |:----------------|:-----------|
-|Proposal document|29 June     |
-|Proposal defense |6 July      |
+|Proposal document|1 July     |
+|Proposal defense |8 July      |
 |Draft chapters   |9 August    |
 
 The course syllabus, assignment sheets, and schedule take precedence in defining formats and, in some cases, due date changes. While this document provides the dates, these reflect general planning for the semester. In the event of due date changes, they may be the last source updated. Refer to specific guidance from course documents and faculty in the event of changes discussed.
