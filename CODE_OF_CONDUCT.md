@@ -148,3 +148,66 @@ Should a student require these follow-up interventions, their First Reader will 
 #### Not passing the proposal defense
 
 Should readers determine that a student _does not_ pass the Proposal defense, changes will be requested via issues filed on the GitHub repository containing the Proposal document. In addition, the student will be asked to attend a follow-up defense. During this follow-up defense, students are expected to address the gaps identified by the previous defense.
+
+## Thesis document minimum requirements
+
+- [ ] Thesis was submitted on time
+- [ ] The title of the thesis is appropriate
+- [ ] The abstract provides a concise summary
+- [ ] The introduction section clearly describes the completed work
+- [ ] The introduction section motivates the completed work	The related work section describes relevant literature
+- [ ] The related work section situates the completed project in the broader scope
+- [ ] The method section explains the process utilized in the completed study
+- [ ] The method section addresses as many of the following which are applicable (minimum `1`):
+* `description of algorithms`
+* `programming languages`
+* `libraries`
+* `platforms`
+* `software tools`
+* `hardware`
+- [ ] The experimental results section includes a description of experiments such that a reader should be able to reproduce them
+- [ ] The evaluation subsection describes how the work is validated
+- [ ] The experimental results section details threats to validity
+- [ ] The discussion and future work section discusses the impact of the conducted work
+- [ ] The conclusion outlines avenues for further and/or future work
+- [ ] The thesis includes at least twelve references
+- [ ] The thesis consists of at least `7500` words
+- [ ] The thesis follows a logical flow
+- [ ] The thesis includes appropriate visual aids, which fall under the broad categories of:
+* `image`
+* `figure`
+* `table`
+* `graph`
+- [ ] There are no typographical or grammatical errors and no extraneous text in the thesis
+- [ ] The thesis was released correctly on GitHub
+- [ ] The thesis uses the correct LaTeX format
+
+### Note on word count
+
+Keep in mind that all word counts represent a _minimum acceptable threshhold_ of content required for completion. It is likely that other requirements listed above are _not_ fulfilled thoroughly with only a minumum word count. While meeting minimum requirements will guarantee a _passing_ grade, it may not necessarily presage the evaluation you _want_. Keep this in mind as you are working toward exhaustively documenting your project process.
+
+## Thesis defenses
+
+Thesis defenses take the form of an in-person oral presentation of between 10 and 15 minutes. Time is dedicated as follows:
+
+* 10 minutes: student presentation
+* 5 minutes: questions posed by First and Second readers in succession
+* brief deliberation of Proposal document and presentation, during which the presenting student leaves the room
+
+After deliberation, the First Reader indicates if the presenter has passed the defense. Students _will not_ be given a grade on their document or presentation at this time.
+
+### Passing the defense
+
+If a student passes the Thesis defense, it is possible that their reader(s) will suggest minor revisions to documents. It is the student's responsibility to consider and implement changes appropriate to the nature of feedback received. Not addressing reader concerns in final documents may adversely affect the evaluation of the quality of the project, resulting in a lower letter grade.
+
+#### "Conditional" passage
+
+In some cases, the changes required by faculty review of student work require significant revision and labor, but not so much so that student work is considered as "not passing." In these cases, a student's readers may come up with certain contingencies that must be fulfilled before judging a project to have passed the defense.
+
+Should a student require these follow-up interventions, their First Reader will open an issue on the student's thesis repository containing the requested revisions. Once a student makes these revisions, and they have been accepted by a student's readers, the student will be notified that they have passed their defense.
+
+### Not passing the thesis defense
+
+Should readers determine that a student _does not_ pass an initial Thesis defense, changes will be requested via issues filed on the GitHub repository containing the Thesis document. These changes are also student responsibility to implement and constitute more than minor suggestions or considerations.
+
+The student must re-defend their thesis either through a full defense session or through a process developed with their thesis reader(s). Following significant revisions to the thesis document and/or presentation of that document, and if readers agree that work has met standards acceptable to the department, the student's work will be considered to have passed this requirement.
